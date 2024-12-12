@@ -1,0 +1,10 @@
+.vscode
+*.txt
+*.xlsx
+errors.out
+.DS_Store
+.idea
+vendor
+protoc
+.exe
+.env
